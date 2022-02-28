@@ -1,4 +1,4 @@
-# AppLessons
+# Android Development
 1、A Lesson Project
 
 2、这是一个为了完成课程作业而创建的项目，其中包括了课程的一些作业结果以及上机实验的操作跟提交文件。
