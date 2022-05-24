@@ -3,5 +3,7 @@
 2.本次大作业的选题为“农村招聘信息发布平台”，主要功能将在介绍文档中进行展示说明，请查看：大作业介绍文档v1.2.pdf。
 
 3.本次作业的代码主要部署在刘志昊同学的GitHub账户中，地址为https://github.com/18630937603?tab=repositories 。
+前端代码仓库：recruitment-information-frontend。
+后端代码仓库：recruitment-information-backend。
 
 4.小程序的AppID为：wx874904c38445429a
